@@ -234,9 +234,11 @@ ul.work-images-third li {
 	margin: 8px 10px;
  background:
 }
+
 ul.work-images-third li:first-child {
 	margin-left:0;
 }
+
 ul.work-images-third li div {
 	background:url(../img/eye.png) 50% 50% no-repeat;
 	background-color: #3E4054;
@@ -244,6 +246,7 @@ ul.work-images-third li div {
 	-moz-transition: all 0.2s linear;
 	-o-transition: all 0.2s linear;
 	transition: all 0.2s linear;
+	
 }
 ul.work-images-third li img {
 	-webkit-transition: all 0.2s linear;
